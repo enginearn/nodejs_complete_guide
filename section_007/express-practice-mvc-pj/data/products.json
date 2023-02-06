@@ -1,16 +1,1 @@
-[
-    {
-        "id": "123456",
-        "title": "Book",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/330px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
-        "description": "New book🎁",
-        "price": "20.99"
-    },
-    {
-        "title": "Booook5",
-        "imageUrl": "http://unblast.com/wp-content/uploads/2020/02/Softcover-Book-Mockup.jpg",
-        "description": "安い本",
-        "price": "100",
-        "id": "0.9197655171808359"
-    }
-]
+[{"title":"Book","imageUrl":"http://unblast.com/wp-content/uploads/2020/02/Softcover-Book-Mockup.jpg","description":"Expensive One","price":"20000","id":"0.1015306420262827"}]

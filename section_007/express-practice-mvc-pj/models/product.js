@@ -33,11 +33,6 @@ module.exports = class Product {
                 console.log(err);
             });
         });
-        const p = path.join(
-            path.dirname(require.main.filename),
-            'data',
-            'products.json'
-        );
     }
 
     static fetchAll(callBack) {

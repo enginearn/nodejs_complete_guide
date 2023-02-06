@@ -40,6 +40,7 @@ exports.getCart = (req, res, next) => {
 };
 
 exports.postCart = (req, res, next) => {
+    console.log(req.body);
     const productId = req.body.productId;
     console.log(productId);
     Product.findById(productId, (product) => {
